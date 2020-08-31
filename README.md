@@ -4,6 +4,8 @@ Como parte do [desafio](https://www.freecodecamp.org/news/join-the-100daysofcode
 
 Tal escolha se deu por eu achar programação competitiva muito divertido. Porém, toda essa diversão se esvai quando o foco se torna ranqueamento e desempenho durante as competições.
 
+Imagem docker usada para desenvolver os programas: [igorlimam/cpp](https://hub.docker.com/r/igorlimam/cpp)
+
 Regras:
 
 1. Codar por mais de uma hora.
