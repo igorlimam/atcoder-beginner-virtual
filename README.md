@@ -12,4 +12,3 @@ Regras:
 
 1. Não é permitido código do trabalho, tem que ser uma aplicação pessoal.
 
-PS: ta foda
